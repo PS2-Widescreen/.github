@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/DanielSant0s/Enceladus/">
+  <a href="https://github.com/PS2-Widescreen/PS2-Widescreen.github.io">
     <img src="https://github.com/PS2-Widescreen/PS2-Widescreen.github.io/blob/gh-pages/logo.png?raw=true" alt="Logo" width="100%" height="auto">
   </a>
 
