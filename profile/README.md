@@ -22,4 +22,4 @@
 - [Downloads](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/releases)
 - [List of hacks that need a mastercode](https://github.com/PS2-Widescreen/pnach-DB/blob/main/ONLY_MASTERCODE_MISSING.txt)
 - [GitHub Pages](https://github.com/PS2-Widescreen/PS2-Widescreen.github.io)
-
+- [List of ready-to-use Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/blob/main/cheat_list.MD)
